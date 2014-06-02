@@ -1,4 +1,3 @@
 //adding some js code
 //puteo
-//puteo2.caca
-
+//merge puteo 2
